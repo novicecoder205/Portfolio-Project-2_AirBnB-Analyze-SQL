@@ -10,5 +10,7 @@
 . Analyze AirBnB data from the city of Paris of France, start with exploring and profiles the data, then preparing and formatting the data for data visualization, finally visualizes the data to extracting valuable insights.
 
 1# Explore and profile data to correct any quality issues.
+
 2# Prepare and reformat the data for visualization.
+
 3# Visualizes the data and identify key insights and recommendations.
